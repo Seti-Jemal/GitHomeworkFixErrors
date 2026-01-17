@@ -2,7 +2,7 @@
 
 ## 1. What is 2 + 2?
 
-5
+4
 
 ## 2. What is JavaScript?
 
@@ -18,7 +18,8 @@ You delete it
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+It send it to a my self.
+
 
 ## 6. What is a Pull Request?
 
